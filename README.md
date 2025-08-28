@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My First Django Project
 
 이 프로젝트는 Django 프레임워크 학습을 위해 만들어진 첫 번째 프로젝트입니다.
@@ -38,3 +39,6 @@ Django의 기본 개념을 익히기 위한 간단한 게시글(Article) 및 메
 4.  **애플리케이션 접속:**
     *   메인 페이지: `http://127.0.0.1:8000/`
     *   관리자 페이지: `http://127.0.0.1:8000/admin/` (관리자 계정은 `python manage.py createsuperuser` 명령어로 생성해야 합니다.)
+=======
+# my_first_django
+>>>>>>> 31560f6f7902ad2874b0babc33b12449c678d33e
